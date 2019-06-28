@@ -20,7 +20,7 @@
 y=\sin(x)
 \]`
 
-@snap[east span-5]
+@snap[east span-5 north span-10]
 <br>
 <br>
 `\[

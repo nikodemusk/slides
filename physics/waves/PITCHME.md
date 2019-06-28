@@ -3,9 +3,8 @@
 
 @snap[north-west span-75]
 @img[shadow](physics/waves/assets/img/Surface_waves-1024.jpg)
-test
 @snapend
-
+test
 @snap[south span-100 h2-white]
 ## Vågrörelselära
 @snapend

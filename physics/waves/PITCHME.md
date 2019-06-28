@@ -4,7 +4,8 @@
 @color[blue](@size[2.0em](Fysik 2))
 @snapend
 
-@snap[south-east span-60]
+@snap[east span-60]
+<br><br><br><br>
 
 @ul[](false)
 - Longitudinella och transversella vågor
@@ -12,8 +13,6 @@
 - Diffraktion och interferens
 - Reflexion, diffraktion, brytning och interferens
 @ulend
-<br><br><br><br><br>
-
 @snapend
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 

@@ -1,7 +1,7 @@
 ---?image=physics/waves/assets/img/wave_background.jpg&position=left 0% top 0%
 @snap[north-west span-60]
-@color[green](@size[3.0em](Vågrörelselära))
-@color[blue](@size[2.0em](Fysik 2))
+@color[green](@size[4.0em](Vågrörelselära))
+@color[blue](@size[3.0em](Fysik 2))
 @snapend
 
 @snap[east span-60]

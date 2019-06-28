@@ -1,0 +1,18 @@
+.spaced li {
+  margin:0 0 10px 0;
+}
+
+.shadow {
+  box-shadow:0 14px 20px 0 rgba(0,0,0,0.2),0 10px 24px 0 rgba(0,0,0,0.19) !important;
+}
+
+.reveal img.clean-img {
+  border: none;
+  box-shadow: none;
+  background: none;
+}
+
+.reveal img.clip-img {
+  clip-path: circle(60% at 50% 50%);
+  -webkit-clip-path: circle(40% at 50% 45%);
+}

@@ -23,6 +23,6 @@ y=\sin(x)
 
 @snap[north-east span-5]
 `\[
-y1=\cos(x)
+y1=\sin(\omega t)
 \]`
 @snapend

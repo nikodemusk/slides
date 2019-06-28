@@ -3,7 +3,6 @@
 @color[green](@size[3em](Vågrörelselära))
 @color[blue](@size[2em](Fysik 2))
 @snapend
-x
 
 @snap[east]
 <br><br><br><br><br>	

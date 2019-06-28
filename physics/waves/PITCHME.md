@@ -1,5 +1,5 @@
 ---?include=physics/waves/modular/coverslide.md
-Under construction
+
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 
 @snap[north-west span-75]

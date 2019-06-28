@@ -24,5 +24,5 @@ y=\sin(x)
 <br>
 <br>
 `\[
-y=\sin(x)
+y1=\sin(x)
 \]`

@@ -21,8 +21,9 @@ y=\sin(x)
 \]`
 @snapend
 
-@snap[north-east span-10]
+@snap[north-east span-5]
 `\[
 y1=\sin(x)
 \]`
+Gorilla!
 @snapend

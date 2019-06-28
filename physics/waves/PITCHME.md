@@ -1,5 +1,6 @@
 ---?image=physics/waves/assets/img/wave_background.jpg&size=auto
-
+# Vågrörelselära
+## Fysik 2
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 

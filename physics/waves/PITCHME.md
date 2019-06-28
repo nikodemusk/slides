@@ -4,7 +4,7 @@
 @color[blue](@size[2.0em](Fysik 2))
 @snapend
 
-@snap[north-east span-35]
+@snap[south-east span-35]
 
 @ul[](false)
 - Longitudinella och transversella vågor

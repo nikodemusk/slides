@@ -11,7 +11,7 @@
 
 ---?image=physics/waves/assets/img/Surface_waves-1024.jpg&size=auto 70% &position=left 2% top 5%&color=linear-gradient(180deg, #f5f5dc 75%, orange 25%)
 
-@snap[west span-100]
+@snap[west span-20]
 <br><br><br>
 test
 @snapend

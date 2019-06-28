@@ -19,9 +19,11 @@
 `\[
 y=\sin(x)
 \]`
+@snapend
 
 @snap[north-east span-100]
 `\[
 y1=\sin(x)
 \]`
 abc
+@snapend

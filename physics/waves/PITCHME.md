@@ -1,4 +1,4 @@
----?include=physics/waves/modular/PITCHME.md
+---?include=physics/waves/cover/PITCHME.md
 
 ---?include=physics/waves/translong/PITCHME.md
 

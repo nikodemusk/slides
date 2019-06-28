@@ -25,4 +25,5 @@ y=\sin(x)
 `\[
 y1=\sin(x)
 \]`
+Gorilla!
 @snapend

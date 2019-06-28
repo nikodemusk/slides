@@ -3,6 +3,15 @@
 @color[green](@size[3.0em](Vågrörelselära))
 @color[blue](@size[2.0em](Fysik 2))
 @snapend
+
+@snap[north-east span-35]
+@ul[text-white]
+- Longitudinella och transversella vågor
+- Gående vågor
+- Stående vågor och resonans
+@ulend
+
+@snapend
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 
 @snap[north-west span-75]

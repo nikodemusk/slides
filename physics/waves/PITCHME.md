@@ -1,6 +1,6 @@
 ---?include=physics/waves/modular/coverslide.md
 
---?include=physics/waves/modular/translong.md
+---?include=physics/waves/modular/translong.md
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 

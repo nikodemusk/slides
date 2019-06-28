@@ -19,3 +19,8 @@
 `\[
 y=\sin(x)
 \]`
+
+@snap[east span-30]
+`\[
+y=\sin(x)
+\]`

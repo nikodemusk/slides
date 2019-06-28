@@ -1,7 +1,8 @@
 ---?image=physics/waves/assets/img/wave_background.jpg&size=auto
+@snap[north-west]
 @color[green](@size[3.0em](Vågrörelselära))
 @color[blue](@size[2.0em](Fysik 2))
-
+@snapend
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 
 @snap[north-west span-75]

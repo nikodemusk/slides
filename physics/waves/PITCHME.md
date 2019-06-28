@@ -21,7 +21,7 @@ y=\sin(x)
 \]`
 @snapend
 
-@snap[north-east span-100]
+@snap[north-east span-10]
 `\[
 y1=\sin(x)
 \]`

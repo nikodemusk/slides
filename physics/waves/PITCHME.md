@@ -4,12 +4,13 @@
 @color[blue](@size[2.0em](Fysik 2))
 @snapend
 
-@snap[midpoint span-35]
+@snap[east span-60]
 
 @ul[](false)
 - Longitudinella och transversella vågor
-- Gående vågor
 - Stående vågor och resonans
+- Diffraktion och interferens
+- Reflexion, diffraktion, brytning och interferens
 @ulend
 
 @snapend

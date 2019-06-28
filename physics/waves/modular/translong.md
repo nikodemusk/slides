@@ -1,5 +1,4 @@
----?color=linear-gradient(180deg, orange 20%, #f5f5dc 80%)
+---?color=linear-gradient(180deg, #f5f5dc 80%, orange 20%)
 @snap[north]
 Transversell vågrörelse
 @snapend
-xyz

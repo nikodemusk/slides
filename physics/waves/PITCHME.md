@@ -14,3 +14,8 @@
 @snap[south span-100 h2-white]
 ## Vågrörelselära
 @snapend
+
+@snap[west span-40]
+`\[
+\y=\sin(x)
+\]`

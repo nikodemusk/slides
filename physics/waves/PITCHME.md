@@ -1,8 +1,8 @@
 ---?include=physics/waves/modular/coverslide.md
 
----?include=physics/waves/modular/translong.md
+---?include=physics/waves/modular/
 
----?color=linear-gradient(179deg, white 75%, black 25%)
+---?color=linear-gradient(180deg, white 75%, black 25%)
 
 @snap[north-west span-75]
 @img[shadow](physics/waves/assets/img/Surface_waves-1024.jpg)

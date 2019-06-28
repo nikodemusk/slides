@@ -2,4 +2,3 @@
 @snap[north]
 Transversell vågrörelse
 @snapend
-zzz

@@ -1,6 +1,6 @@
 ---?include=physics/waves/modular/coverslide.md
 
----?include=physics/waves/modular/
+---?include=physics/waves/modular/PITCHME.md
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 

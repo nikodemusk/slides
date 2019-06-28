@@ -1,6 +1,10 @@
 ---?include=physics/waves/modular/coverslide.md
 
----?include=physics/waves/modular/translong.md
+---?color=linear-gradient(180deg, #f5f5dc 80%, orange 20%)
+@snap[north]
+Transversell vågrörelse
+@snapend
+zzz
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 

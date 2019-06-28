@@ -13,7 +13,7 @@
 
 @snap[west span-50]
 <br><br><br><br><br><br><br>
-@size[0.5em](Bild från...)
+@size[0.3em](Bild från...)
 @snapend
 
 @snap[south span-100 h2-white]

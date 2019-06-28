@@ -7,8 +7,8 @@
 @snap[east span-60]
 <br><br><br><br>
 
-@size[3.0em](@ul[](false))
-- Longitudinella och transversella vågor
+@ul[](false)
+- @size[1.5em](Longitudinella och transversella vågor)
 - Stående vågor och resonans
 - Diffraktion och interferens
 - Reflexion, diffraktion, brytning och interferens

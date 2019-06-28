@@ -6,9 +6,11 @@
 
 @snap[north-east span-35]
 
-* Longitudinella och transversella vågor
-* Gående vågor
-* Stående vågor och resonans
+@ol
+- Longitudinella och transversella vågor
+- Gående vågor
+- Stående vågor och resonans
+@olend
 
 @snapend
 ---?color=linear-gradient(180deg, white 75%, black 25%)

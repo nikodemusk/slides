@@ -8,9 +8,8 @@
 <br><br><br><br><br>	
 
 @ul[](false)
-- @size[1.0em](Longitudinella och transversella vågor)
+- @size[1.0em](Transversella och Longitudinella vågor)
 - @size[1.0em](Stående vågor och resonans)
-- @size[1.0em](Diffraktion och interferens)
 - @size[1.0em](Reflexion, diffraktion, brytning och interferens)
 @ulend
 @snapend

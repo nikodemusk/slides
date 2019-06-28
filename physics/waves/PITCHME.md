@@ -4,7 +4,7 @@
 @color[blue](@size[2em](Fysik 2))
 @snapend
 
-@snap[east span-60]
+@snap[east span-50]
 <br><br><br><br><br>	
 
 @ul[](false)

@@ -1,17 +1,17 @@
 ---?image=physics/waves/assets/img/wave_background.jpg&position=left 0% top 0%
 @snap[north-west span-60]
-@color[green](@size[4.5em](Vågrörelselära))
-@color[blue](@size[3.5em](Fysik 2))
+@color[green](@size[3em](Vågrörelselära))
+@color[blue](@size[2em](Fysik 2))
 @snapend
 
 @snap[east span-60]
-<br><br><br><br><br>
+<br><br><br><br><br>	
 
 @ul[](false)
-- @size[1.2em](Longitudinella och transversella vågor)<br>
-- @size[1.2em](Stående vågor och resonans)<br>
-- @size[1.2em](Diffraktion och interferens)<br>
-- @size[1.2em](Reflexion, diffraktion, brytning och interferens)
+- @size[1.0em](Longitudinella och transversella vågor)
+- @size[1.0em](Stående vågor och resonans)
+- @size[1.0em](Diffraktion och interferens)
+- @size[1.0em](Reflexion, diffraktion, brytning och interferens)
 @ulend
 @snapend
 ---?color=linear-gradient(180deg, white 75%, black 25%)

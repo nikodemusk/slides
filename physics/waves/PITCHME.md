@@ -15,7 +15,7 @@
 ## Vågrörelselära
 @snapend
 
-@snap[west span-40]
+@snap[east span-40]
 `\[
-\y=\sin(x)
+y=\sin(x)
 \]`

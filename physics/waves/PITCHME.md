@@ -6,7 +6,7 @@
 
 @snap[north-east span-35]
 
-@ul(false)
+@ul[](false)
 - Longitudinella och transversella vågor
 - Gående vågor
 - Stående vågor och resonans

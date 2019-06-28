@@ -9,7 +9,7 @@
 ## Vågrörelselära
 @snapend
 
----?image=physics/waves/assets/img/Surface_waves-1024.jpg&size=auto 70% &position=left 2% top 5%&color=linear-gradient(180deg, white 75%, black 25%)
+---?image=physics/waves/assets/img/Surface_waves-1024.jpg&size=auto 70% &position=left 2% top 5%&color=linear-gradient(180deg, white 75%, blue 25%)
 
 @snap[south span-100 h2-white]
 ## Vågrörelselära

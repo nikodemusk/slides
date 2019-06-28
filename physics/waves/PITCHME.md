@@ -13,7 +13,7 @@
 
 @snap[west span-5]
 <br><br><br>
-<center>test</center>
+<center>testaretestaretestaretest</center>
 @snapend
 
 @snap[south span-100 h2-white]

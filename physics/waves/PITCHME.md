@@ -1,7 +1,7 @@
 
 
 
----?image=/physics/waves/assets/img/Surface_Waves-1024.jpg&size=auto 75%&position=bottom&color=linear-gradient(180deg, white 75%, black 25%)
+---?image=physics/waves/assets/img/Surface_Waves-1024.jpg&size=auto 75%&position=bottom&color=linear-gradient(180deg, white 75%, black 25%)
 
 
 

@@ -23,7 +23,6 @@ y=\sin(x)
 
 @snap[north-east span-5]
 `\[
-y1=\sin(x)
+y1=\cos(x)
 \]`
-Gorilla!
 @snapend

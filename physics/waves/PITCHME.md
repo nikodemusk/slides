@@ -12,6 +12,7 @@
 - Diffraktion och interferens
 - Reflexion, diffraktion, brytning och interferens
 @ulend
+<br><br><br>
 
 @snapend
 ---?color=linear-gradient(180deg, white 75%, black 25%)

@@ -1,5 +1,5 @@
----?image=physics/waves/assets/img/wave_background.jpg&size=auto
-@snap[north-west span-75]
+---?image=physics/waves/assets/img/wave_background.jpg&size=auto&position=left 0% top 0%
+@snap[north-west span-60]
 @color[green](@size[3.0em](Vågrörelselära))
 @color[blue](@size[2.0em](Fysik 2))
 @snapend

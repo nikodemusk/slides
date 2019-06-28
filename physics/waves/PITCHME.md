@@ -1,4 +1,3 @@
 Vågrörelselära
-@img[](assets/img/Surface_waves-1024.jpg)
-..
+![](assets/img/Surface_waves-1024.jpg)
 ---

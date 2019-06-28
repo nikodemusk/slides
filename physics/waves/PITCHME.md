@@ -1,5 +1,5 @@
 ---?image=physics/waves/assets/img/wave_background.jpg&size=auto
-@size[3.0em](Vågrörelselära)
+@size[3.0em]@color[green](Vågrörelselära)
 ## Fysik 2
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)

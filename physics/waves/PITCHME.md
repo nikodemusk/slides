@@ -5,7 +5,7 @@
 @snapend
 
 @snap[east span-60]
-<br><br><br><br>
+<br><br><br><br><br>
 
 @ul[](false)
 - @size[1.2em](Longitudinella och transversella vågor)

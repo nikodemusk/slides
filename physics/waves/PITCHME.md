@@ -8,10 +8,10 @@
 <br><br><br><br>
 
 @ul[](false)
-- @size[1.5em](Longitudinella och transversella vågor)
-- Stående vågor och resonans
-- Diffraktion och interferens
-- Reflexion, diffraktion, brytning och interferens
+- @size[1.2em](Longitudinella och transversella vågor)
+- @size[1.2em](Stående vågor och resonans)
+- @size[1.2em](Diffraktion och interferens)
+- @size[1.2em](Reflexion, diffraktion, brytning och interferens)
 @ulend
 @snapend
 ---?color=linear-gradient(180deg, white 75%, black 25%)

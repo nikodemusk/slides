@@ -1,7 +1,7 @@
 ---?include=physics/waves/modular/coverslide.md
 
 ---?include=physics/waves/modular/translong.md
-
+y
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 
 @snap[north-west span-75]

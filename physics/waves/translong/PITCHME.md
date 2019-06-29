@@ -16,6 +16,3 @@
 @snapend
 
 +++?image=physics/waves/assets/img/bg/orange.jpg&position=top&size=100% 20%
-@snap[south-west span-75]
-@img[shadow](physics/waves/assets/img/Surface_waves-1024.jpg)
-@snapend

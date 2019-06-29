@@ -1,4 +1,4 @@
-+++?image=physics/waves/assets/img/bg/orange.jpg&position=top&size=100% 20%
+---?image=physics/waves/assets/img/bg/orange.jpg&position=top&size=100% 20%
 
 @snap[north]
 Transversell vågrörelse

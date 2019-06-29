@@ -14,3 +14,5 @@ Transversell vågrörelse
 - @size[0.7em](Periodtid...)
 @ulend
 @snapend
+
++++?image=physics/waves/assets/img/bg/orange.jpg&position=top&size=100% 20%

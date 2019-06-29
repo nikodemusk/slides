@@ -5,4 +5,4 @@ Transversell vågrörelse
 @snapend
 
 @snap[west span-70]
-![](physics/waves/assets/img/simple_harmonic_motion_animation.gif)
+![span-70](physics/waves/assets/img/simple_harmonic_motion_animation.gif)

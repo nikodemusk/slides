@@ -55,3 +55,5 @@ description : "A short tutorial introducing the power and simplicity of GitPitch
 thumbnail : https://gitpitch.com/gpimg/tutorial-thumb.png
 
 mathjax : TeX-MML-AM_HTMLorMML-full
+
+transition : convex

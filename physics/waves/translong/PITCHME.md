@@ -10,7 +10,7 @@ Transversell vågrörelse
 
 @snap[east span-50]
 @ul[spaced text-black]
-- Utbredningsriktning och partiklarnas rörelserikning vinkelräta mot varandra
-- Periodtid...
+- @size[0.7em](Utbredningsriktning och partiklarnas rörelserikning vinkelräta mot varandra)
+- @size[0.7em](Periodtid...)
 @ulend
 @snapend

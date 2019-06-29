@@ -11,7 +11,7 @@
 @snap[east span-50]
 @ul[spaced text-black]
 - @size[0.7em](Vågens utbredningsriktning och partiklarnas rörelserikning vinkelräta mot varandra)
-- @size[0.7em](Periodtiden, `\(T\)`, är tiden det tar för partikeln att färdas fram och tillbaka)
+- @size[0.7em](Periodtiden, \(T\), är tiden det tar för partikeln att färdas fram och tillbaka)
 @ulend
 @snapend
 

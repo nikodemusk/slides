@@ -1,4 +1,5 @@
----?color=linear-gradient(180deg, #f5f5dc 20%, orange 80%)
++++?image=physics/waves/assets/img/bg/orange.jpg&position=top&size=100% 20%
+
 @snap[north]
 Transversell vågrörelse
 @snapend

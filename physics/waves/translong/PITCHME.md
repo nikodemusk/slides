@@ -3,3 +3,6 @@
 @snap[north]
 Transversell vågrörelse
 @snapend
+
+@snap[west]
+![](physics/waves/assets/img/simple_harmonic_motion_animation.gif)

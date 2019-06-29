@@ -13,6 +13,7 @@
 - @size[0.7em](Vågens utbredningsriktning och partiklarnas rörelserikning vinkelräta mot varandra)
 - @size[0.7em](Periodtiden, $T$, är tiden det tar för partikeln att färdas fram och tillbaka)
 @ulend
+$$E=mc^2$$
 @snapend
 
 +++?image=physics/waves/assets/img/bg/orange.jpg&position=top&size=100% 20%

@@ -6,3 +6,11 @@ Transversell vågrörelse
 
 @snap[west span-70]
 ![span-70](physics/waves/assets/img/simple_harmonic_motion_animation.gif)
+@snapend
+
+@snap[east span-50]
+@ul[spaced text-white]
+- Utbredningsriktning och partiklarnas rörelserikning vinkelräta mot varandra
+- Periodtid...
+@ulend
+@snapend

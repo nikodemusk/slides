@@ -8,9 +8,9 @@ Transversell vågrörelse
 ![span-70](physics/waves/assets/img/simple_harmonic_motion_animation.gif)
 @snapend
 
-@snap[east span-50]
+@snap[east span-70]
 @ul[spaced text-black]
-- @size[0.7em](Utbredningsriktning och partiklarnas rörelserikning vinkelräta mot varandra)
+- @size[0.7em](Vågens utbredningsriktning och partiklarnas rörelserikning vinkelräta mot varandra)
 - @size[0.7em](Periodtid...)
 @ulend
 @snapend

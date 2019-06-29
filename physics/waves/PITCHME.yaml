@@ -56,4 +56,4 @@ thumbnail : https://gitpitch.com/gpimg/tutorial-thumb.png
 
 mathjax : TeX-MML-AM_HTMLorMML-full
 
-transition : convex
+transition : fade

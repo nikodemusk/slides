@@ -9,7 +9,7 @@ Transversell vågrörelse
 @snapend
 
 @snap[east span-50]
-@ul[spaced text-white]
+@ul[spaced text-black]
 - Utbredningsriktning och partiklarnas rörelserikning vinkelräta mot varandra
 - Periodtid...
 @ulend

@@ -38,7 +38,7 @@ layout : center
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : "GitPitch - The Fastest Way From Idea To Presentation"
+footnote : "Fysikundervisning"
 
 #
 # Published Setting
@@ -55,3 +55,5 @@ description : "A short tutorial introducing the power and simplicity of GitPitch
 thumbnail : https://gitpitch.com/gpimg/tutorial-thumb.png
 
 mathjax : TeX-MML-AM_HTMLorMML-full
+
+transition : fade

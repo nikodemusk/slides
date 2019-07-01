@@ -1,5 +1,5 @@
----?include=physics/waves/cover/translong.md
+---?include=physics/waves/cover/PITCHME.md
 
----?include=physics/waves/translong/PITCHME.md
+---?include=physics/waves/translong/translong.md
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)

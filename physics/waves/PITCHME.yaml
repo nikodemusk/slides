@@ -25,8 +25,8 @@ theme-override: physics/waves/assets/css/PITCHME.css
 # Logo Setting
 # https://gitpitch.com/docs/settings/logo
 #
-logo : physics/waves/assets/img/logo.png
-logo-position : top-left
+#logo : physics/waves/assets/img/logo.png
+#logo-position : top-left
 
 #
 # Layout Setting

@@ -1,5 +1,5 @@
 ---? Försättsblad presentation mekaniska vågor
----?Den storea bilden tar lite tid att ladda.
+---? Den storea bilden tar lite tid att ladda.
 ---?image=physics/waves/assets/img/wave_background.jpg&position=left 0% top 0%
 @snap[north-west span-60]
 @color[green](@size[3em](Vågrörelselära))

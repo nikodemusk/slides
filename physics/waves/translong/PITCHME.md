@@ -1,4 +1,3 @@
-[comment]: <> (Slajdar om transversella och longitudinella vågor)
 ---?image=physics/waves/assets/img/bg/orange.jpg&position=top&size=100% 20%
 
 @snap[north]

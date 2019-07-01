@@ -1,3 +1,4 @@
+---? Försättsblad presentation mekaniska vågor
 ---?image=physics/waves/assets/img/wave_background.jpg&position=left 0% top 0%
 @snap[north-west span-60]
 @color[green](@size[3em](Vågrörelselära))
@@ -5,7 +6,7 @@
 @snapend
 
 @snap[east]
-<br><br><br><br><br>	
+<br><br><br><br><br>
 
 @ul[](false)
 - @size[1.0em](Transversella och longitudinella vågor)

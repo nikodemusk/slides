@@ -1,4 +1,4 @@
----? Försättsblad presentation mekaniska vågor
+---? Försättsblad presentation mekaniska vågor...
 ---?image=physics/waves/assets/img/wave_background.jpg&position=left 0% top 0%
 @snap[north-west span-60]
 @color[green](@size[3em](Vågrörelselära))

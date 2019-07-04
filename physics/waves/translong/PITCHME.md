@@ -15,7 +15,7 @@
 @ulend
 @snapend
 
-+++?image=physics/waves/assets/img/bg/orange.jpg&position=top&size=100% 20%
++++?data-background-iframe="https://slides.com" data-background-interactive
 @snap[south-west span-75]
 @img[shadow](physics/waves/assets/img/Surface_waves-1024.jpg)
 @snapend

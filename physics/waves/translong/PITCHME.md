@@ -16,7 +16,7 @@
 @snapend
 
 +++
-@snap[west span-60]
+@snap[west span-55]
 ![](https://cloudheaven.se/~nikodemus/shared/waveslides/TravellingWaveSpeed1.gif)
 ![](https://cloudheaven.se/~nikodemus/shared/waveslides/TravellingWaveSpeed2.gif)
 ![](https://cloudheaven.se/~nikodemus/shared/waveslides/TravellingWaveSpeed0.gif)

@@ -105,7 +105,7 @@
 @snapend
 
 @snap[west span-55]
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 @box[bg-yellow rounded box-padding](@size[0.5em](Under en periodtid så snurrar hjulet ett varv. På samma tid hinner också vågen färdas sträckan en våglängd, avståndet mellan två vågtoppar. Frekvensen är hur många varv hjulet roterar under en sekund.))
 @snapend
 

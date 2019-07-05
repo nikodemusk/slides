@@ -116,7 +116,7 @@
 
 @snap[west span-70]
 <br><br><br><br><br>
-@box[bg-yellow rounded box-padding](@size[0.5em](I longitudinell vågrörelse svänger partiklarna runt ett jämviktsläge i samma linje som utbredningsriktningen. Samma samband mellan periodtid, frekvens och vågglängd gäller som för transversella vågor.))
+@box[bg-yellow rounded box-padding](@size[0.5em](I longitudinell vågrörelse svänger partiklarna runt ett jämviktsläge i samma linje som utbredningsriktningen. Samma samband mellan periodtid, frekvens och våglängd gäller som för transversella vågor. T ex ljudvågor är longitudinella.))
 @snapend
 
 +++?image=physics/waves/assets/img/bg/orange.jpg&position=top&size=100% 20%

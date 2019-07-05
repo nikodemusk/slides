@@ -85,11 +85,15 @@
 @snapend
 
 @snap[east span-25]
-@box[bg-yellow rounded box-padding]($$\lambda=\frac{v}{f}$$)
+@box[bg-yellow rounded box-padding]($$\lambda=v\cdot T$$)
 @snapend
 
 @snap[south-east span-45]
 @box[bg-yellow rounded box-padding]($$f=\frac{1}{T}$$)
+@snapend
+
+@snap[east span-25]
+@box[bg-yellow rounded box-padding]($$\lambda=\frac{v}{f}$$)
 @snapend
 
 @snap[west span-55]

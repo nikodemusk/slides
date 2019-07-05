@@ -110,6 +110,7 @@
 @snapend
 @snap[west span-100]
 ![](https://cloudheaven.se/~nikodemus/shared/waveslides/LongitudinalWave.gif)
+@size[0.4em](I longitudinell vågrörelse svänger partiklarna runt ett jämviktsläge i samma linje som utbredningsriktningen. Samma samband mellan periodtid, frekvens och vågglängd gäller som för transversella vågor.)
 @snapend
 
 +++?image=physics/waves/assets/img/bg/orange.jpg&position=top&size=100% 20%

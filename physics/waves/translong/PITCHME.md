@@ -78,7 +78,7 @@
 
 @snap[west span-50]
 <br><br><br><br><br><br><br><br><br><br>
-@box[bg-orange rounded box-padding](@size[0.4em](Varje del på strängen rör sig enbart i uppåt- nedåtriktning medan utbredningen sker i sidled.))
+@size[0.4em](Varje del på strängen rör sig enbart i uppåt- nedåtriktning medan utbredningen sker i sidled.)
 @snapend
 
 @snap[east span-35]

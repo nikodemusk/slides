@@ -85,8 +85,8 @@
 @snapend
 
 @snap[east span-25]
-<br><br><br><br><br><br><br>
 @box[bg-yellow rounded box-padding]($$\lambda=v\cdot T$$)
+<br><br><br><br><br><br><br>
 @snapend
 
 @snap[south-east span-45]

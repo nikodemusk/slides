@@ -70,12 +70,12 @@
 #### Transversell vågrörelse
 @snapend
 
-@snap[west span-55]
+@snap[west span-65]
 <br><br><br>
 ![](https://cloudheaven.se/~nikodemus/shared/waveslides/TravellingWave.gif)
 @snapend
 
-@snap[east span-45]
+@snap[east span-35]
 @box[bg-green rounded box-padding](@size[0.7em](I en transversell våg gäller att utbredningsriktningen och partiklarnas rörelseriktningar är vinkelräta mot varandra))
 @snapend
 

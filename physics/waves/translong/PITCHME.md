@@ -89,7 +89,7 @@
 <br><br><br><br><br><br><br>
 @snapend
 
-@snap[east span-45]
+@snap[east span-35]
 @box[bg-yellow rounded box-padding]($$f=\frac{1}{T}$$)
 @snapend
 
@@ -106,7 +106,7 @@
 
 @snap[west span-55]
 <br><br><br><br><br>
-@box[bg-yellow rounded box-padding](@size[0.4em](Under en periodtid så snurrar hjulet ett varv. På samma tid hinner också vågen färdas sträckan en våglängd, avståndet mellan två vågtoppar. Frekvensen är hur många varv hjulet roterar under en sekund.))
+@box[bg-yellow rounded box-padding](@size[0.5em](Under en periodtid så snurrar hjulet ett varv. På samma tid hinner också vågen färdas sträckan en våglängd, avståndet mellan två vågtoppar. Frekvensen är hur många varv hjulet roterar under en sekund.))
 @snapend
 
 +++?color=linear-gradient(180deg, #F26124 12%, #FFFFB7 12%)

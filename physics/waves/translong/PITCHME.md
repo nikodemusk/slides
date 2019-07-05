@@ -94,7 +94,7 @@
 
 @snap[west span-55]
 ![](https://cloudheaven.se/~nikodemus/shared/waveslides/TravellingWave.gif)
-@size[0.4em](Frekvens $f$ och periodtid $T$: )
+@size[0.4em](Frekvens $f$ och periodtid $T$: Under en periodtid så snurrar hjulet ett varv. På samma tid hinner också vågen bre ut sig med sträckan en våglängd ($\lambda$, avståndet mellan två vågtoppar). Frekvensen är hur många varv hjulet roterar under en sekund.)
 @snapend
 
 +++?image=physics/waves/assets/img/bg/orange.jpg&position=top&size=100% 20%

@@ -22,6 +22,11 @@
 ![](https://cloudheaven.se/~nikodemus/shared/waveslides/TravellingWaveSpeed0.gif)
 @snapend
 
+@snap[east-span 40]
+Dessa vågor har samma frekvens men olika utbredningshastighet.
+Beskriv skillnaden.
+@snapend
+
 +++?image=physics/waves/assets/img/bg/orange.jpg&position=top&size=100% 20%
 @snap[south-west span-75]
 @img[shadow](physics/waves/assets/img/Surface_waves-1024.jpg)

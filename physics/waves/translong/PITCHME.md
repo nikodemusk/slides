@@ -108,7 +108,7 @@
 @snap[north]
 #### Longitudinell vågrörelse
 @snap[west span-45]
-![](https://cloudheaven.se/~nikodemus/shared/LongitudinalWave.gif)
+![](https://cloudheaven.se/~nikodemus/shared/waveslides/LongitudinalWave.gif)
 @snapend
 
 +++?image=physics/waves/assets/img/bg/orange.jpg&position=top&size=100% 20%

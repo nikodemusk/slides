@@ -53,9 +53,9 @@
 @snapend
 
 @snap[west span-55]
-@size[0.4em](Varje del på strängen rör sig enbart i uppåt- nedåtriktning<br>medan utbredningen sker i sidled.)
+@size[0.5em](Varje del på strängen rör sig enbart i uppåt- nedåtriktning<br>medan utbredningen sker i sidled.)
 ![](https://cloudheaven.se/~nikodemus/shared/waveslides/TravellingWave.gif)
-@size[0.4em](Partiklarna svänger runt ett jämviktsläge!)
+@size[0.5em](Partiklarna svänger runt ett jämviktsläge!)
 @snapend
 
 @snap[east span-45]

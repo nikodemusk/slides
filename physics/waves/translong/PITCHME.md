@@ -15,7 +15,7 @@
 @ulend
 @snapend
 
-+++?image=physics/waves/assets/img/bg/orange.jpg&position=top&size=100% 20%
++++?color=linear-gradient(180deg, #F26124 20%, #FFFFB7 20%)
 @snap[north]
 #### Transversell vågrörelse
 @snapend
@@ -40,7 +40,7 @@
 @size[0.7em](Vilken av vågorna, A eller B, har den högsta utbrednings-hastigheten? Hur syns det?)
 @snapend
 
-+++?image=physics/waves/assets/img/bg/orange.jpg&position=top&size=100% 20%
++++?color=linear-gradient(180deg, #F26124 20%, #FFFFB7 20%)
 @snap[north]
 #### Transversell vågrörelse
 @snapend

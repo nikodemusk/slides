@@ -65,7 +65,7 @@
 @size[0.7em](Vilken av vågorna, A eller B, har den högsta frekvensen? Hur syns det?)
 @snapend
 
-?color=linear-gradient(180deg, white 20%, #FFFFB7 80%)
++++?color=linear-gradient(180deg, white 20%, #FFFFB7 80%)
 @snap[north]
 #### Transversell vågrörelse
 @snapend

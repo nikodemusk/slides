@@ -91,7 +91,6 @@
 
 @snap[east span-45]
 @box[bg-yellow rounded box-padding]($$f=\frac{1}{T}$$)
-<br><br><br><br><br><br><br>
 @snapend
 
 @snap[east span-25]

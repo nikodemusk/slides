@@ -48,7 +48,7 @@
 @snap[west span-55]
 <br><br><br>
 ![](https://cloudheaven.se/~nikodemus/shared/waveslides/TravellingWaveHighFreq.gif)
-![](https://cloudheaven.se/~nikodemus/shared/waveslides/TravellingWave.gif)
+![](https://cloudheaven.se/~nikodemus/shared/waveslides/TravellingWaveSpeed1.gif)
 @snapend
 
 @snap[west span-55]
@@ -60,9 +60,23 @@
 
 @snap[east span-45]
 <br>
-@size[0.7em](Dessa vågor har olika frekvens men samma utbredningshastighet. Beskriv skillnaden.)
+@size[0.7em](Dessa vågor har olika frekvens men samma utbrednings-hastighet. Beskriv skillnaden.)
 <br><br>
 @size[0.7em](Vilken av vågorna, A eller B, har den högsta frekvensen? Hur syns det?)
+@snapend
+
++++?image=physics/waves/assets/img/bg/orange.jpg&position=top&size=100% 20%
+@snap[north]
+#### Transversell vågrörelse
+@snapend
+
+@snap[west span-55]
+<br><br><br>
+![](https://cloudheaven.se/~nikodemus/shared/waveslides/TravellingWave.gif)
+@snapend
+
+@snap[east span-45]
+@size[0.7em](I en transversell våg gäller att utbredningsriktningen och partiklarnas rörelseriktningar är vinkelräta mot varandra)
 @snapend
 
 +++?image=physics/waves/assets/img/bg/orange.jpg&position=top&size=100% 20%

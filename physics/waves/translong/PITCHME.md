@@ -92,6 +92,11 @@
 @box[bg-yellow rounded box-padding]($$f=\frac{1}{T}$$)
 @snapend
 
+@snap[west span-55]
+![](https://cloudheaven.se/~nikodemus/shared/waveslides/TravellingWave.gif)
+@size[0.4em](Frekvens $f$ och periodtid $T$: )
+@snapend
+
 +++?image=physics/waves/assets/img/bg/orange.jpg&position=top&size=100% 20%
 @snap[south-west span-75]
 @img[shadow](physics/waves/assets/img/Surface_waves-1024.jpg)

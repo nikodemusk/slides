@@ -73,7 +73,7 @@
 @snap[west span-65]
 <br><br><br>
 ![](https://cloudheaven.se/~nikodemus/shared/waveslides/TravellingWave.gif)
-@size[0.4em](Varje del på strängen rör sig enbart i uppåt- nedåtriktning medan utbredningen sker i sidled.)
+@box[bg-green rounded box-padding](@size[0.7em](Varje del på strängen rör sig enbart i uppåt- nedåtriktning medan utbredningen sker i sidled.))
 @snapend
 
 @snap[east span-35]

@@ -35,35 +35,10 @@
 @snapend
 
 @snap[east span-45]
-<br>
-@size[0.7em](Dessa vågor har samma frekvens men olika utbredningshastighet. Beskriv skillnaden.)
 <br><br>
-@size[0.7em](Vilken av vågorna, A eller B, har den högsta utbrednings-hastigheten? Hur syns det?)
-@snapend
-
-+++?color=linear-gradient(180deg, #F26124 20%, #FFFFB7 20%)
-@snap[north]
-#### Transversell vågrörelse
-@snapend
-
-@snap[west span-55]
-<br><br><br>
-![](https://cloudheaven.se/~nikodemus/shared/waveslides/TravellingWaveHighFreq.gif)
-![](https://cloudheaven.se/~nikodemus/shared/waveslides/TravellingWaveSpeed1.gif)
-@snapend
-
-@snap[west span-55]
-<br><br><br>
-@size[0.7em](A)
-<br><br><br><br>
-@size[0.7em](B)
-@snapend
-
-@snap[east span-45]
+@box[bg-yellow rounded box-padding](@size[0.7em](Vågorna har samma frekvens men olika utbredningshastighet. Beskriv skillnaden.))
 <br>
-@size[0.7em](Dessa vågor har olika frekvens men samma utbrednings-hastighet. Beskriv skillnaden.)
-<br><br>
-@size[0.7em](Vilken av vågorna, A eller B, har den högsta frekvensen? Hur syns det?)
+@box[bg-yellow rounded box-padding](@size[0.7em](Vilken av vågorna, A eller B, har den högsta utbredningshastigheten? Hur syns det?))
 @snapend
 
 +++?color=linear-gradient(180deg, #F26124 20%, #FFFFB7 20%)
@@ -86,7 +61,7 @@
 
 @snap[east span-45]
 <br><br>
-@box[bg-yellow rounded box-padding](@size[0.7em](Vågorna har olika frekvens men samma utbredningshastighet. Beskriv skillnaden))
+@box[bg-yellow rounded box-padding](@size[0.7em](Vågorna har olika frekvens men samma utbredningshastighet. Beskriv skillnaden.))
 <br>
 @box[bg-yellow rounded box-padding](@size[0.7em](Vilken av vågorna, A eller B, har den högsta frekvensen? Hur syns det?))
 @snapend

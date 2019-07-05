@@ -22,7 +22,7 @@
 ![](https://cloudheaven.se/~nikodemus/shared/waveslides/TravellingWaveSpeed0.gif)
 @snapend
 
-@snap[east-span]
+@snap[east span 40]
 @size[0.7em](Dessa vågor har samma frekvens men olika utbredningshastighet.
 Beskriv skillnaden.)
 @snapend

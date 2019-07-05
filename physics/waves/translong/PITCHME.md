@@ -34,6 +34,7 @@
 @snapend
 
 @snap[east span-45]
+<br>
 @size[0.7em](Dessa vågor har samma frekvens men olika utbredningshastighet. Beskriv skillnaden.)
 <br><br>
 @size[0.7em](Vilken av vågorna, A eller B, har den högsta utbrednings-hastigheten? Hur syns det?)

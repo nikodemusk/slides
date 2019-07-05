@@ -108,8 +108,10 @@
 @snap[north]
 #### Longitudinell vågrörelse
 @snapend
+
 @snap[west span-100]
 ![](https://cloudheaven.se/~nikodemus/shared/waveslides/LongitudinalWave.gif)
+<br><br><br><br>
 @snapend
 
 @snap[west span-70]

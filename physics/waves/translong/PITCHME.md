@@ -16,6 +16,10 @@
 @snapend
 
 +++?image=physics/waves/assets/img/bg/orange.jpg&position=top&size=100% 20%
+@snap[north]
+#### Transversell vågrörelse
+@snapend
+
 @snap[west span-55]
 <br><br><br>
 ![](https://cloudheaven.se/~nikodemus/shared/waveslides/TravellingWaveSpeed1.gif)

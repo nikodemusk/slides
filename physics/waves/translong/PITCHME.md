@@ -23,8 +23,8 @@
 @snapend
 
 @snap[east-span]
-Dessa vågor har samma frekvens men olika utbredningshastighet.
-Beskriv skillnaden.
+@size[0.7em](Dessa vågor har samma frekvens men olika utbredningshastighet.
+Beskriv skillnaden.)
 @snapend
 
 +++?image=physics/waves/assets/img/bg/orange.jpg&position=top&size=100% 20%

@@ -19,20 +19,18 @@
 @snap[west span-55]
 ![](https://cloudheaven.se/~nikodemus/shared/waveslides/TravellingWaveSpeed1.gif)
 ![](https://cloudheaven.se/~nikodemus/shared/waveslides/TravellingWaveSpeed2.gif)
-![](https://cloudheaven.se/~nikodemus/shared/waveslides/TravellingWaveSpeed0.gif)
 @snapend
 
 @snap[west span-55]
 @size[0.7em](A)
 <br><br><br><br>
 @size[0.7em](B)
-<br><br><br><br>@size[0.7em](C)
 @snapend
 
 @snap[east span-45]
 @size[0.7em](Dessa vågor har samma frekvens men olika utbredningshastighet. Beskriv skillnaden.)
 <br><br>
-@size[0.7em](Vilken av vågorna, A B och C har den högsta utbrednings-hastigheten? Hur syns det?)
+@size[0.7em](Vilken av vågorna, A eller B, har den högsta utbrednings-hastigheten? Hur syns det?)
 @snapend
 
 +++?image=physics/waves/assets/img/bg/orange.jpg&position=top&size=100% 20%

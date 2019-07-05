@@ -65,7 +65,7 @@
 @size[0.7em](Vilken av vågorna, A eller B, har den högsta frekvensen? Hur syns det?)
 @snapend
 
-+++?image=physics/waves/assets/img/bg/orange.jpg&position=top&size=100% 20% color=#FFFFB7
+?color=linear-gradient(180deg, white 20%, #FFFFB7 80%)
 @snap[north]
 #### Transversell vågrörelse
 @snapend

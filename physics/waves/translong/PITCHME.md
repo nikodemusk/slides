@@ -85,9 +85,9 @@
 @snapend
 
 @snap[east span-45]
-<br>
-@box[bg-yellow rounded box-padding](@size[0.7em](Vågorna har olika frekvens men samma utbredningshastighet. Beskriv skillnaden))
 <br><br>
+@box[bg-yellow rounded box-padding](@size[0.7em](Vågorna har olika frekvens men samma utbredningshastighet. Beskriv skillnaden))
+<br>
 @box[bg-yellow rounded box-padding](@size[0.7em](Vilken av vågorna, A eller B, har den högsta frekvensen? Hur syns det?))
 @snapend
 

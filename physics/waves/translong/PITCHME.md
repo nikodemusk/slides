@@ -76,7 +76,7 @@
 @snapend
 
 @snap[east span-45]
-@box[bg-yellow rounded box-padding](Viktigt!#@size[0.7em](För en transversell våg gäller att utbrednings-riktningen och partiklarnas rörelseriktningar är vinkelräta mot varandra.))
+@box[bg-yellow rounded box-padding](Viktigt!#@size[0.7em](För en transversell våg gäller att utbredningsriktningen och partiklarnas rörelseriktningar är vinkelräta mot varandra.))
 @snapend
 
 +++?color=linear-gradient(180deg, #F26124 12%, #FFFFB7 12%)
@@ -84,8 +84,9 @@
 #### Transversell vågrörelse
 @snapend
 
-@snap[east span-25]
-@box[bg-yellow rounded box-padding]($$\lambda=\frac{v}{f}$$)
+@snap[east span-45]
+@box[bg-yellow rounded box-padding]($$f=\frac{1}{T}$$)
+@snapend
 
 +++?image=physics/waves/assets/img/bg/orange.jpg&position=top&size=100% 20%
 @snap[south-west span-75]

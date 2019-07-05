@@ -17,9 +17,9 @@
 
 +++
 @snap[west span-55]
-A ![](https://cloudheaven.se/~nikodemus/shared/waveslides/TravellingWaveSpeed1.gif)
-B ![](https://cloudheaven.se/~nikodemus/shared/waveslides/TravellingWaveSpeed2.gif)
-C ![](https://cloudheaven.se/~nikodemus/shared/waveslides/TravellingWaveSpeed0.gif)
+@size[0.7em](A) ![](https://cloudheaven.se/~nikodemus/shared/waveslides/TravellingWaveSpeed1.gif)
+@size[0.7em](B) ![](https://cloudheaven.se/~nikodemus/shared/waveslides/TravellingWaveSpeed2.gif)
+@size[0.7em](C) ![](https://cloudheaven.se/~nikodemus/shared/waveslides/TravellingWaveSpeed0.gif)
 @snapend
 
 @snap[east span-40]

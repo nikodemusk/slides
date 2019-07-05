@@ -23,9 +23,9 @@
 @snapend
 
 @snap[west span-55]
-@size[0.7em](A)
+<br><br><br><br>@size[0.7em](A)
 @size[0.7em](B)
-@size[0.7em](C)
+<br><br><br><br>@size[0.7em](C)
 @snapend
 
 @snap[east span-40]

@@ -78,7 +78,7 @@
 
 @snap[east span-35]
 <br><br>
-@box[bg-green rounded box-padding](@size[0.7em](För en transversell våg gäller att utbredningsriktningen och partiklarnas rörelseriktningar är vinkelräta mot varandra.))
+@box[bg-green rounded box-padding](@size[0.4em](För en transversell våg gäller att utbredningsriktningen och partiklarnas rörelseriktningar är vinkelräta mot varandra.))
 @snapend
 
 +++?image=physics/waves/assets/img/bg/orange.jpg&position=top&size=100% 20%

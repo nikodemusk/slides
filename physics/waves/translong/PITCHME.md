@@ -16,7 +16,7 @@
 @snapend
 
 +++
-![](https://cloudheaven.se/~nikodemus/shared/waveslides/TravellingWaveSpeed1.gif)
+![](https://cloudheaven.se/~nikodemus/shared/waveslides/TravellingWaveSpeed1.gif = 30%)
 
 +++?image=physics/waves/assets/img/bg/orange.jpg&position=top&size=100% 20%
 @snap[south-west span-75]

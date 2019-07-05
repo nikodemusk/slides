@@ -113,7 +113,7 @@
 @snapend
 
 @snap[west span-70]
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 @box[bg-yellow rounded box-padding](@size[0.5em](I longitudinell vågrörelse svänger partiklarna runt ett jämviktsläge i samma linje som utbredningsriktningen. Samma samband mellan periodtid, frekvens och vågglängd gäller som för transversella vågor.))
 @snapend
 

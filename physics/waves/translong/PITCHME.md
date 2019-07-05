@@ -59,7 +59,7 @@
 @snapend
 
 @snap[east span-45]
-@box[bg-yellow rounded box-padding](@size[0.7em](Vågorna A och B har olika frekvens men samma utbred-ningshastighet. Beskriv skillnaden.))
+@box[bg-yellow rounded box-padding](@size[0.7em](Vågorna A och B har olika frekvens men samma utbredningshastighet. Beskriv skillnaden.))
 <br>
 @box[bg-yellow rounded box-padding](@size[0.7em](Vilken av vågorna, A eller B, har den högsta frekvensen? Hur syns det?))
 @snapend
@@ -110,7 +110,7 @@
 @snapend
 @snap[west span-100]
 ![](https://cloudheaven.se/~nikodemus/shared/waveslides/LongitudinalWave.gif)
-@size[0.5em](<br>I longitudinell vågrörelse svänger partiklarna runt ett jämviktsläge i samma linje som utbredningsriktningen. Samma samband mellan periodtid, frekvens och vågglängd gäller som för transversella vågor.)
+@box[bg-yellow rounded box-padding](@size[0.5em](<br>I longitudinell vågrörelse svänger partiklarna runt ett jämviktsläge i samma linje som utbredningsriktningen. Samma samband mellan periodtid, frekvens och vågglängd gäller som för transversella vågor.))
 @snapend
 
 +++?image=physics/waves/assets/img/bg/orange.jpg&position=top&size=100% 20%

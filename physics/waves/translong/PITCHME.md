@@ -18,6 +18,8 @@
 +++
 @snap[west span-70]
 ![](https://cloudheaven.se/~nikodemus/shared/waveslides/TravellingWaveSpeed1.gif)
+![](https://cloudheaven.se/~nikodemus/shared/waveslides/TravellingWaveSpeed2.gif)
+![](https://cloudheaven.se/~nikodemus/shared/waveslides/TravellingWaveSpeed0.gif)
 @snapend
 
 +++?image=physics/waves/assets/img/bg/orange.jpg&position=top&size=100% 20%

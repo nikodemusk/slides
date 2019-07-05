@@ -88,8 +88,7 @@
 @box[bg-yellow rounded box-padding]($$\lambda=\frac{v}{f}$$)
 @snapend
 
-@snap[east span-45]
-<br><br><br><br>
+@snap[south-east span-45]
 @box[bg-yellow rounded box-padding]($$f=\frac{1}{T}$$)
 @snapend
 

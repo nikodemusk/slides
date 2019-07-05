@@ -99,8 +99,9 @@
 @snapend
 
 @snap[west span-55]
+Periodtid $T$, frekvens $f$ och våglängd $\lambda$
 ![](https://cloudheaven.se/~nikodemus/shared/waveslides/TravellingWave.gif)
-@size[0.4em](Periodtid $T$, frekvens $f$ och våglängd $\lambda$<br>Under en periodtid så snurrar hjulet ett varv. På samma tid hinner också vågen färdas sträckan en våglängd, avståndet mellan två vågtoppar. Frekvensen är hur många varv hjulet roterar under en sekund.)
+@size[0.4em](Under en periodtid så snurrar hjulet ett varv. På samma tid hinner också vågen färdas sträckan en våglängd, avståndet mellan två vågtoppar. Frekvensen är hur många varv hjulet roterar under en sekund.)
 @snapend
 
 +++?image=physics/waves/assets/img/bg/orange.jpg&position=top&size=100% 20%

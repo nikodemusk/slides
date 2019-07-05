@@ -99,7 +99,7 @@
 @snapend
 
 @snap[west span-55]
-@size[0.7em](Periodtid $T$, frekvens $f$ och våglängd $\lambda$<br>)
+@size[0.7em](<br>Periodtid $T$, frekvens $f$ och våglängd $\lambda$)
 ![](https://cloudheaven.se/~nikodemus/shared/waveslides/TravellingWave.gif)
 @size[0.4em](Under en periodtid så snurrar hjulet ett varv. På samma tid hinner också vågen färdas sträckan en våglängd, avståndet mellan två vågtoppar. Frekvensen är hur många varv hjulet roterar under en sekund.)
 @snapend

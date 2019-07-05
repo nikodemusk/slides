@@ -107,6 +107,7 @@
 +++?color=linear-gradient(180deg, #F26124 12%, #FFFFB7 12%)
 @snap[north]
 #### Longitudinell vågrörelse
+@snapend 
 @snap[west span-45]
 ![](https://cloudheaven.se/~nikodemus/shared/waveslides/LongitudinalWave.gif)
 @snapend

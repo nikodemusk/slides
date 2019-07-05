@@ -84,11 +84,12 @@
 #### Transversell vågrörelse
 @snapend
 
-@snap[north-east span-25]
+@snap[east span-25]
 @box[bg-yellow rounded box-padding]($$\lambda=v\cdot T$$)
 @snapend
 
 @snap[south-east span-45]
+<br><br><br><br><br><br><br>
 @box[bg-yellow rounded box-padding]($$f=\frac{1}{T}$$)
 @snapend
 

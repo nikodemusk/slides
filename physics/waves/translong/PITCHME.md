@@ -70,7 +70,7 @@
 #### Transversell vågrörelse
 @snapend
 
-@snap[west span-65]
+@snap[west span-40]
 <br><br><br>
 ![](https://cloudheaven.se/~nikodemus/shared/waveslides/TravellingWave.gif)
 @box[bg-green rounded box-padding](@size[0.4em](Varje del på strängen rör sig enbart i uppåt- nedåtriktning medan utbredningen sker i sidled.))

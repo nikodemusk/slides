@@ -104,6 +104,13 @@
 @size[0.4em](Under en periodtid så snurrar hjulet ett varv. På samma tid hinner också vågen färdas sträckan en våglängd, avståndet mellan två vågtoppar. Frekvensen är hur många varv hjulet roterar under en sekund.)
 @snapend
 
++++?color=linear-gradient(180deg, #F26124 12%, #FFFFB7 12%)
+@snap[north]
+#### Longitudinell vågrörelse
+@snap[west span-45]
+![](https://cloudheaven.se/~nikodemus/shared/LongitudinalWave.gif)
+@snapend
+
 +++?image=physics/waves/assets/img/bg/orange.jpg&position=top&size=100% 20%
 @snap[south-west span-75]
 @img[shadow](physics/waves/assets/img/Surface_waves-1024.jpg)

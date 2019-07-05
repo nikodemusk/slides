@@ -94,6 +94,7 @@
 @snapend
 
 @snap[east span-25]
+<br><br><br><br><br><br><br>
 @box[bg-yellow rounded box-padding]($$\lambda=\frac{v}{f}$$)
 @snapend
 

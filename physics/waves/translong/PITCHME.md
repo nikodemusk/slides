@@ -21,7 +21,7 @@
 @snapend
 
 @snap[west span-55]
-<br><br><br>
+<br>
 ![](https://cloudheaven.se/~nikodemus/shared/waveslides/TravellingWaveSpeed1.gif)
 ![](https://cloudheaven.se/~nikodemus/shared/waveslides/TravellingWaveSpeed2.gif)
 @size[0.4em](Utbredningshastigheten beror på strängens egenskaper!)

@@ -15,7 +15,7 @@
 @ulend
 @snapend
 
-+++?color=linear-gradient(180deg, #F26124 20%, #FFFFB7 20%)
++++?color=linear-gradient(180deg, #F26124 12%, #FFFFB7 12%)
 @snap[north]
 #### Transversell vågrörelse
 @snapend

@@ -84,7 +84,7 @@
 #### Transversell vågrörelse
 @snapend
 
-@snap[east span-45]
+@snap[east span-25]
 @box[bg-yellow rounded box-padding]($$\lambda=\frac{v}{f}$$)
 
 +++?image=physics/waves/assets/img/bg/orange.jpg&position=top&size=100% 20%

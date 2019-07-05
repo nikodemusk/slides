@@ -1,20 +1,3 @@
----?image=physics/waves/assets/img/bg/orange.jpg&position=top&size=100% 20%
-
-@snap[north]
-#### Transversell vågrörelse
-@snapend
-
-@snap[west span-70]
-![span-70](physics/waves/assets/img/simple_harmonic_motion_animation.gif)
-@snapend
-
-@snap[east span-50]
-@ul[spaced text-black]
-- @size[0.7em](Vågens utbredningsriktning och partiklarnas rörelserikning vinkelräta mot varandra)
-- @size[0.7em](Periodtiden, $T$, är tiden det tar för partikeln att färdas fram och tillbaka)
-@ulend
-@snapend
-
 +++?color=linear-gradient(180deg, #F26124 12%, #FFFFB7 12%)
 @snap[north]
 #### Transversell vågrörelse
@@ -122,9 +105,4 @@
 @snap[west span-70]
 <br><br><br><br><br>
 @box[bg-yellow rounded box-padding](@size[0.5em](I longitudinell vågrörelse svänger partiklarna runt ett jämviktsläge i samma linje som utbredningsriktningen. Samma samband mellan periodtid, frekvens och våglängd gäller som för transversella vågor. T ex ljudvågor är longitudinella.))
-@snapend
-
-+++?image=physics/waves/assets/img/bg/orange.jpg&position=top&size=100% 20%
-@snap[south-west span-75]
-@img[shadow](physics/waves/assets/img/Surface_waves-1024.jpg)
 @snapend

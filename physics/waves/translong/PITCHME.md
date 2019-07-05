@@ -18,7 +18,7 @@
 @snapend
 
 @snap[east span-45]
-@box[bg-yellow rounded box-padding](@size[0.7em](Vågorna A och B har samma frekvens men olika utbrednings-hastighet. Beskriv skillnaden.))
+@box[bg-yellow rounded box-padding](@size[0.7em](Vågorna A och B har samma frekvens men olika utbredningshastighet. Beskriv skillnaden.))
 <br>
 @box[bg-yellow rounded box-padding](@size[0.7em](Vilken av vågorna, A eller B, har den högsta utbrednings-hastigheten? Hur syns det?))
 @snapend
@@ -53,7 +53,7 @@
 @snapend
 
 @snap[west span-55]
-@size[0.5em](Varje del på strängen rör sig enbart i uppåt- nedåtriktning<br>medan utbredningen sker i sidled.)
+@size[0.5em](Varje del på strängen rör sig enbart i uppåt- nedåtriktning medan utbredningen sker i sidled.)
 ![](https://cloudheaven.se/~nikodemus/shared/waveslides/TravellingWave.gif)
 @size[0.5em](Partiklarna svänger runt ett jämviktsläge!)
 @snapend

@@ -24,6 +24,7 @@
 <br><br><br>
 ![](https://cloudheaven.se/~nikodemus/shared/waveslides/TravellingWaveSpeed1.gif)
 ![](https://cloudheaven.se/~nikodemus/shared/waveslides/TravellingWaveSpeed2.gif)
+@size[0.4em](Utbredningshastigheten beror på strängens egenskaper!)
 @snapend
 
 @snap[west span-55]
@@ -38,7 +39,6 @@
 @size[0.7em](Dessa vågor har samma frekvens men olika utbredningshastighet. Beskriv skillnaden.)
 <br><br>
 @size[0.7em](Vilken av vågorna, A eller B, har den högsta utbrednings-hastigheten? Hur syns det?)
-@box[bg-green rounded box-padding](@size[0.7em](Utbredningshastigheten beror på strängens egenskaper.))
 @snapend
 
 +++?color=linear-gradient(180deg, #F26124 20%, #FFFFB7 20%)

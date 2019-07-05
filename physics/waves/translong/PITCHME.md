@@ -101,7 +101,7 @@
 @snap[west span-55]
 @size[0.6em](Periodtid $T$, frekvens $f$ och våglängd $\lambda$<br>)
 ![](https://cloudheaven.se/~nikodemus/shared/waveslides/TravellingWave.gif)
-<br><br><br><br><br><br>
+<br><br><br><br><br>
 @snapend
 
 @snap[west span-55]

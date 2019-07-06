@@ -98,7 +98,7 @@
 @snapend
 
 @snap[west span-100]
-![](https://cloudheaven.se/~nikodemus/shared/waveslides/LongitudinalWave.gif)
+![](https://cloudheaven.se/~nikodemus/shared/waveslides/LongitudinalWave1.gif)
 <br><br><br><br>
 @snapend
 

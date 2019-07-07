@@ -5,7 +5,7 @@
 
 @snap[west span-40]
 <br>
-![Superposition](https://cloudheaven.se/~nikodemus/shared/waveslides/InterferenceOfPulses1.gif)
+![Superposition](https://cloudheaven.se/~nikodemus/shared/waveslides/InterferenceOfPulses-1.gif)
 @box[bg-yellow rounded box-padding](@size[0.7em](**Superpositionsprincipen**: Flera vågor läggs samman för att få en resulterande våg.))
 @snapend
 

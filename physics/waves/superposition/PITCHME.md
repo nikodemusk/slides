@@ -12,7 +12,7 @@
 @snap[east span-45]
 @box[bg-yellow rounded box-padding](@size[0.7em](Vad händer när två pulser möter varandra?))
 <br>
-@box[bg-yellow rounded box-padding](@size[0.7em](Höjden av den resulterande pulsen är summan av de ingående pulsernas höjder.))
+@box[bg-yellow rounded box-padding](@size[0.7em](För varje läge på de ingående pulserna adderas deras höjd. Det blir höjden på den resulterande pulsen. Superpositionsprincipen: Flera vågor läggs samman för att få en resulterande våg.))
 @snapend
 
 +++?color=linear-gradient(180deg, #F26124 12%, #FFFFB7 12%)

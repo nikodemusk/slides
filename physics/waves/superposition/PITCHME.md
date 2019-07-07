@@ -5,7 +5,7 @@
 
 @snap[west span-40]
 <br>
-![Superposition](https://cloudheaven.se/~nikodemus/shared/waveslides/interference_of_pulses_1_std.mp4)
+![Superposition](https://cloudheaven.se/~nikodemus/shared/waveslides/InterferenceOfPulses.gif)
 @snapend
 
 

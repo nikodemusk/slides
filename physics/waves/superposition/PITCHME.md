@@ -6,7 +6,7 @@
 @snap[west span-40]
 <br>
 ![Superposition](https://cloudheaven.se/~nikodemus/shared/waveslides/InterferenceOfPulses.gif)
-Superpositionsprincipen: Flera vågor läggs samman för att få en resulterande våg.
+@size[0.7em](Superpositionsprincipen: Flera vågor läggs samman för att få en resulterande våg.)
 @snapend
 
 

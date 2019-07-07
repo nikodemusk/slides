@@ -20,26 +20,12 @@
 
 +++?color=linear-gradient(180deg, #F26124 12%, #FFFFB7 12%)
 @snap[north]
-#### Transversell vågrörelse
+#### Reflexion av puls
 @snapend
 
 @snap[west span-55]
 <br>
-![](https://cloudheaven.se/~nikodemus/shared/waveslides/TravellingWaveHighFreq.gif)
-![](https://cloudheaven.se/~nikodemus/shared/waveslides/TravellingWaveSpeed1.gif)
-@snapend
-
-@snap[west span-55]
-<br>
-@size[0.7em](A)
-<br><br><br><br>
-@size[0.7em](B)
-@snapend
-
-@snap[east span-45]
-@box[bg-yellow rounded box-padding](@size[0.7em](Vågorna A och B har olika frekvens men samma utbredningshastighet. Beskriv skillnaden.))
-<br>
-@box[bg-yellow rounded box-padding](@size[0.7em](Vilken av vågorna, A eller B, har den högsta frekvensen? Hur syns det?))
+![](https://cloudheaven.se/~nikodemus/shared/waveslides/ReflexionOfPulse.gif)
 @snapend
 
 +++?color=linear-gradient(180deg, #F26124 12%, #FFFFB7 12%)

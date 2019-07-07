@@ -18,7 +18,7 @@
 [@size[0.7em](<div style="text-align: left"> Länk till interaktion</div>)](https://www.desmos.com/calculator/kakdnd9f43)
 @snapend
 
-@snap(south)
+@snap[south]
 Hello, world
 @snapend
 

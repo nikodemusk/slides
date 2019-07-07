@@ -23,9 +23,17 @@
 #### Reflexion av puls
 @snapend
 
-@snap[west span-55]
+@snap[west span-40]
 <br>
 ![](https://cloudheaven.se/~nikodemus/shared/waveslides/ReflexionOfPulse.gif)
+@snapend
+
+@snap[east span-55]
+@box[bg-yellow rounded box-padding](@size[0.7em](Vad händer när två pulser möter varandra?))
+<br>
+@box[bg-yellow rounded box-padding](@size[0.7em](När en puls **reflekteras** mot en ändpunkt så byter den riktning. Om den reflekteras mot en fast ände så blir den reflekterade pulsen fasförskjuten i förhållande till den inkommande.))
+<br>
+[@size[0.7em](<div style="text-align: left"> Länk till interaktion</div>)](https://www.desmos.com/calculator/kakdnd9f43)
 @snapend
 
 +++?color=linear-gradient(180deg, #F26124 12%, #FFFFB7 12%)

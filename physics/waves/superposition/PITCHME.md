@@ -14,6 +14,8 @@
 @box[bg-yellow rounded box-padding](@size[0.7em](Vad händer när två pulser möter varandra?))
 <br>
 @box[bg-yellow rounded box-padding](@size[0.7em](För varje läge på de ingående pulserna adderas deras höjd. Det blir höjden på den resulterande pulsen.))
+<br>
+[@size[0.7em](Pröva här!)](https://www.desmos.com/calculator/kakdnd9f43)
 @snapend
 
 +++?color=linear-gradient(180deg, #F26124 12%, #FFFFB7 12%)

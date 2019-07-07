@@ -15,7 +15,7 @@
 <br>
 @box[bg-yellow rounded box-padding](@size[0.7em](För varje läge på de ingående pulserna adderas deras höjd. Det blir höjden på den resulterande pulsen.))
 <br>
-[@size[0.7em](<div style="text-align: left"> @css[text-red](Länk till interaktion</div>))](https://www.desmos.com/calculator/kakdnd9f43)
+[@size[0.7em](<div style="text-align: left"> Länk till interaktion</div>)](https://www.desmos.com/calculator/kakdnd9f43)
 @snapend
 
 +++?color=linear-gradient(180deg, #F26124 12%, #FFFFB7 12%)

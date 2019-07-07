@@ -3,10 +3,9 @@
 #### Superposition
 @snapend
 
-@snap[west span-55]
+@snap[west span-40]
 <br>
-![Superposition](https://cloudheaven.se/~nikodemus/shared/waveslides/embed/interference_of_pulses_1_std.mp4)
-![Reflexion](https://youtube.com/embed/1GyiHMj67JE)
+![Superposition](https://cloudheaven.se/~nikodemus/shared/waveslides/interference_of_pulses_1_std.mp4)
 @snapend
 
 

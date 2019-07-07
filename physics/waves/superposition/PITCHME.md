@@ -10,7 +10,7 @@
 @snapend
 
 
-@snap[east span 55]
+@snap[east span-55]
 @box[bg-yellow rounded box-padding](@size[0.7em](Vad händer när två pulser möter varandra?))
 <br>
 @box[bg-yellow rounded box-padding](@size[0.7em](För varje läge på de ingående pulserna adderas deras höjd. Det blir höjden på den resulterande pulsen.))

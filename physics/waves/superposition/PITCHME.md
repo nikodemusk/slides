@@ -5,7 +5,7 @@
 
 @snap[west span-40]
 <br>
-![Superposition](https://cloudheaven.se/~nikodemus/shared/waveslides/InterferenceOfPulses.gif)
+![Superposition](https://cloudheaven.se/~nikodemus/shared/waveslides/InterferenceOfPulses1.gif)
 @box[bg-yellow rounded box-padding](@size[0.7em](**Superpositionsprincipen**: Flera vågor läggs samman för att få en resulterande våg.))
 @snapend
 
@@ -16,10 +16,6 @@
 @box[bg-yellow rounded box-padding](@size[0.7em](För varje läge på de ingående pulserna adderas deras höjd. Det blir höjden på den resulterande pulsen.))
 <br>
 [@size[0.7em](<div style="text-align: left"> Länk till interaktion</div>)](https://www.desmos.com/calculator/kakdnd9f43)
-@snapend
-
-@snap[south]
-@css[text-blue](Hello, world)
 @snapend
 
 +++?color=linear-gradient(180deg, #F26124 12%, #FFFFB7 12%)

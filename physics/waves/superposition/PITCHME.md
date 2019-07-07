@@ -26,7 +26,7 @@
 @snap[west span-40]
 <br>
 ![](https://cloudheaven.se/~nikodemus/shared/waveslides/ReflexionOfPulse.gif)
-<br><br>
+<br><br><br>
 @snapend
 
 @snap[east span-55]

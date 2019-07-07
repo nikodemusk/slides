@@ -19,7 +19,7 @@
 @snapend
 
 @snap[south]
-@css[text-red](Hello, world)
+@css[text-blue](Hello, world)
 @snapend
 
 +++?color=linear-gradient(180deg, #F26124 12%, #FFFFB7 12%)

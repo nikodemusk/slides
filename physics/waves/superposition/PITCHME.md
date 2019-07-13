@@ -34,9 +34,9 @@
 <br><br>
 @snapend
 
-<!-- @snap[south]
-@box[bg-yellow rounded box-padding](@size[0.7em](Om det kommer fler pulser efter varandra som reflektera så kommer de inkommande och de reflekterade pulserna att möta varandra...))
-@snapend -->
+<!-- @snap[south] -->
+<!-- @box[bg-yellow rounded box-padding](@size[0.7em](Om det kommer fler pulser efter varandra som reflektera så kommer de inkommande och de reflekterade pulserna att möta varandra...)) -->
+<!-- @snapend -->
 
 +++?color=linear-gradient(180deg, #F26124 12%, #FFFFB7 12%)
 @snap[north]

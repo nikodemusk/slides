@@ -30,7 +30,7 @@
 @snapend
 
 @snap[east span-55]
-@box[bg-yellow rounded box-padding](@size[0.7em](När en puls **reflekteras** mot en ändpunkt så byter den riktning. Om den reflekteras mot en fast ände så blir den reflekterade pulsen fasförskjuten i förhållande till den inkommande.))
+@box[bg-yellow rounded box-padding](@size[0.7em](Vad händer när en puls reflekteras? Olika fall?))
 <br><br>
 @snapend
 

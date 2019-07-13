@@ -30,7 +30,7 @@
 @snapend
 
 @snap[east span-55]
-@box[bg-yellow rounded box-padding](@size[0.7em](Vad händer när en puls reflekteras? Olika fall?))
+@box[bg-yellow rounded box-padding](@size[0.7em](På vilka sätt kan en puls reflekteras?))
 <br><br>
 @snapend
 

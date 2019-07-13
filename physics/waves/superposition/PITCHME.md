@@ -9,7 +9,7 @@
 @snapend
 
 
-@snap[east span-55]
+@snap[east span-45]
 @box[bg-yellow rounded box-padding](@size[0.7em](Vad händer när två pulser möter varandra?))
 <br>
 @box[bg-yellow rounded box-padding](@size[0.7em](**Superpositionsprincipen**: Flera vågor läggs samman för att få en resulterande våg.))

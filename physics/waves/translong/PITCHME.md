@@ -5,7 +5,7 @@
 
 @snap[west span-55]
 <br>
-![](https://nika-assets.fra1.digitaloceanspaces.com/gitpitchimages/waveslides/TravellingWaveSpeed0.gif)
+![](https://nika-assets.fra1.digitaloceanspaces.com/gitpitchimages/waveslides/TravellingWaveSpeed1.gif)
 ![](https://nika-assets.fra1.digitaloceanspaces.com/gitpitchimages/waveslides/TravellingWaveSpeed2.gif)
 @size[0.4em](Utbredningshastigheten beror på strängens egenskaper!)
 @snapend

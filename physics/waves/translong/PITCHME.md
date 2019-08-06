@@ -5,8 +5,8 @@
 
 @snap[west span-55]
 <br>
-![](https://cloudheaven.se/~nikodemus/shared/waveslides/TravellingWaveSpeed1.gif)
-![](https://cloudheaven.se/~nikodemus/shared/waveslides/TravellingWaveSpeed2.gif)
+![](https://nika-assets.fra1.digitaloceanspaces.com/gitpitchimages/waveslides/TravellingWaveSpeed0.gif)
+![](https://nika-assets.fra1.digitaloceanspaces.com/gitpitchimages/waveslides/TravellingWaveSpeed2.gif)
 @size[0.4em](Utbredningshastigheten beror på strängens egenskaper!)
 @snapend
 
@@ -30,8 +30,8 @@
 
 @snap[west span-55]
 <br>
-![](https://cloudheaven.se/~nikodemus/shared/waveslides/TravellingWaveHighFreq.gif)
-![](https://cloudheaven.se/~nikodemus/shared/waveslides/TravellingWaveSpeed1.gif)
+![](https://nika-assets.fra1.digitaloceanspaces.com/gitpitchimages/waveslides/TravellingWaveHighFreq.gif)
+![](https://nika-assets.fra1.digitaloceanspaces.com/gitpitchimages/waveslides/TravellingWaveSpeed1.gif)
 @snapend
 
 @snap[west span-55]
@@ -54,7 +54,7 @@
 
 @snap[west span-55]
 @size[0.5em](Varje del på strängen rör sig enbart i uppåt- nedåtriktning medan utbredningen sker i sidled.)
-![](https://cloudheaven.se/~nikodemus/shared/waveslides/TravellingWave.gif)
+![](https://nika-assets.fra1.digitaloceanspaces.com/gitpitchimages/waveslides/TravellingWave.gif)
 @size[0.5em](Partiklarna svänger runt ett jämviktsläge!)
 @snapend
 
@@ -83,7 +83,7 @@
 
 @snap[west span-55]
 @size[0.6em](Periodtid $T$, frekvens $f$ och våglängd $\lambda$<br>)
-![](https://cloudheaven.se/~nikodemus/shared/waveslides/TravellingWave.gif)
+![](https://nika-assets.fra1.digitaloceanspaces.com/gitpitchimages/waveslides/TravellingWave.gif)
 <br><br><br><br><br>
 @snapend
 
@@ -98,7 +98,7 @@
 @snapend
 
 @snap[west span-100]
-![](https://cloudheaven.se/~nikodemus/shared/waveslides/LongitudinalWave1.gif)
+![](https://nika-assets.fra1.digitaloceanspaces.com/gitpitchimages/waveslides/LongitudinalWave1.gif)
 <br><br><br><br>
 @snapend
 

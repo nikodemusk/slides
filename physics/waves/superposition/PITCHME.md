@@ -5,7 +5,7 @@
 
 @snap[west span-45]
 <br>
-![Superposition](https://cloudheaven.se/~nikodemus/shared/waveslides/InterferenceOfPulses.gif)
+![Superposition](https://nika-assets.fra1.digitaloceanspaces.com/gitpitchimages/waveslides/InterferenceOfPulses.gif)
 <br>
 [@size[0.7em](<div style="text-align: left"> Länk till interaktion</div>)](https://www.desmos.com/calculator/kakdnd9f43)
 @snapend
@@ -24,7 +24,7 @@
 
 @snap[west span-40]
 <br>
-![](https://cloudheaven.se/~nikodemus/shared/waveslides/ReflexionOfPulse.gif)
+![](https://nika-assets.fra1.digitaloceanspaces.com/gitpitchimages/waveslides/ReflexionOfPulse.gif)
 <br><br><br>
 @snapend
 
@@ -44,7 +44,7 @@
 
 @snap[west span-55]
 @size[0.5em](Varje del på strängen rör sig enbart i uppåt- nedåtriktning medan utbredningen sker i sidled.)
-![](https://cloudheaven.se/~nikodemus/shared/waveslides/TravellingWave.gif)
+![](https://nika-assets.fra1.digitaloceanspaces.com/gitpitchimages/waveslides/TravellingWave.gif)
 @size[0.5em](Partiklarna svänger runt ett jämviktsläge!)
 @snapend
 
@@ -73,7 +73,7 @@
 
 @snap[west span-55]
 @size[0.6em](Periodtid $T$, frekvens $f$ och våglängd $\lambda$<br>)
-![](https://cloudheaven.se/~nikodemus/shared/waveslides/TravellingWave.gif)
+![](https://nika-assets.fra1.digitaloceanspaces.com/gitpitchimages/waveslides/TravellingWave.gif)
 <br><br><br><br><br>
 @snapend
 
@@ -88,7 +88,7 @@
 @snapend
 
 @snap[west span-100]
-![](https://cloudheaven.se/~nikodemus/shared/waveslides/LongitudinalWave1.gif)
+![](https://nika-assets.fra1.digitaloceanspaces.com/gitpitchimages/waveslides/LongitudinalWave1.gif)
 <br><br><br><br>
 @snapend
 

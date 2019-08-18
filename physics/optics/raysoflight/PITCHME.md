@@ -37,7 +37,7 @@
 
 @snap[midpoint span-100]
 Antingen så lyser föremålet självt, dvs är en **ljuskälla**...
-<br><br>
+<br>
 eller så **reflekterar** det ljus från en ljuskälla.
 @snapend
 

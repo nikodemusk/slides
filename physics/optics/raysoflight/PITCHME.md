@@ -53,9 +53,10 @@ $i=r$
 @snapend
 
 +++?color=#FAF9D4
-@snap[midpoint]
+@snap[midpoint span-100]
 ![](https://live.staticflickr.com/180/468074751_12a4a5a073_o_d.jpg)
 @snapend
+
 @snap[south-east]
 @size[0.5em](Regelbunden reflexion i vissa partier)
 @snapend

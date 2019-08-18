@@ -85,7 +85,9 @@ $i=r$
 @snapend
 
 +++?color=#FAF9D4
+@snap[midpoint span-100]
 ![](https://live.staticflickr.com/4085/5043702871_a199fd7883_b_d.jpg)
+@snapend
 @snap[south-east]
 @size[0.5em](Diffus reflexion, träd och vass)
 @snapend

@@ -62,5 +62,5 @@ Föremål som inte lyser själva syns då de reflekterar ljus
 
 @snap[south span-100 fragment]
 Hur hög är spegeln i förhållande till kroppslängden?
-<br><br><br>
+<br><br>
 @snapend

@@ -28,7 +28,7 @@
 ### Reflexionslagen
 @snapend
 
-@snap[west span-40]
+@snap[west span-60]
 <br>Regelbunden reflexion:
 ![](https://nika-assets.fra1.digitaloceanspaces.com/gitpitchimages/rayoptics/Regelbunden_reflexion_trans.png)
 $i=r$

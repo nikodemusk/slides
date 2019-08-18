@@ -78,7 +78,7 @@ Diffus reflexion
 ### Reflexionslagen
 @snapend
 
-@snap[midpoint span-60]
+@snap[midpoint span-100]
 Diffus reflexion, förstorad
 ![](https://nika-assets.fra1.digitaloceanspaces.com/gitpitchimages/rayoptics/Diffus_reflexion_2_trans.png)
 $i=r$

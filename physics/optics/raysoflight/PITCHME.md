@@ -54,7 +54,7 @@ $i=r$
 
 +++?color=#FAF9D4
 @snap[midpoint span-100]
-![](https://live.staticflickr.com/180/468074751_12a4a5a073_o_d.jpg)
+![](https://live.staticflickr.com/180/468074751_8e998b6213_b_d.jpg)
 @snapend
 
 @snap[south-east]
@@ -85,7 +85,7 @@ $i=r$
 @snapend
 
 +++?color=#FAF9D4
-![](https://live.staticflickr.com/4085/5043702871_b8c8c21f7c_o_d.jpg)
+![](https://live.staticflickr.com/4085/5043702871_a199fd7883_b_d.jpg)
 @snap[south-east]
 @size[0.5em](Diffus reflexion, träd och vass)
 @snapend

@@ -124,3 +124,44 @@ $i=r$
 @size[0.8em](Hur hög är spegeln i förhållande till kroppslängden?)
 <br><br>
 @snapend
+
+---?color=#FAF9D4
+@snap[north span-100]
+### Ljusknippen
+@snapend
+
+@snap[midpoint span-60]
+<br>
+<img src="https://nika-assets.fra1.digitaloceanspaces.com/gitpitchimages/rayoptics/Parallellt_ljusknippe_trans.png" width="70%">
+@snapend
+
+@snap[south-east]
+Parallellt ljusknippe
+@snapend
+
+---?color=#FAF9D4
+@snap[north]
+### Ljusknippen
+<img src="https://nika-assets.fra1.digitaloceanspaces.com/gitpitchimages/rayoptics/Divergent_ljusknippe_trans.png" width="70%">
+@snapend
+
+@snap[south-east]
+Divergent ljusknippe
+@snapend
+
+---?color=#FAF9D4
+@snap[north]
+### Avlägsna ljuskällor
+@snapend
+
+@snap[west span-90]
+<img src="https://nika-assets.fra1.digitaloceanspaces.com/gitpitchimages/rayoptics/Divergent_ljusknippe_trans_1.png" width="40%">
+@snapend
+
+@snap[east span-90]
+<img src="https://nika-assets.fra1.digitaloceanspaces.com/gitpitchimages/rayoptics/Divergent_ljusknippe_trans_2.png" width="40%">
+@snapend
+
+@snap[south span-100]
+@size[0.6em](Från avlägsna ljuskällor är strålarna ungefär parallella)
+@snapend

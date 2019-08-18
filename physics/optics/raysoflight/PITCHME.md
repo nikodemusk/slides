@@ -100,7 +100,7 @@ $i=r$
 
 @snap[south span-100]
 @size[0.6em](Vinklarna räknas i förhållande till **ytans normal**)
-<br><br><br><br>
+<br><br>
 @snapend
 
 ---?color=#FAF9D4

@@ -2,7 +2,7 @@
 # Stråloptik
 ---?color=#FAF9D4
 @snap[north span-100]
-### Antika föreställningar om ljus
+### Tidiga föreställningar om ljus
 @snapend
 
 @snap[west span-1++]
@@ -19,7 +19,7 @@
 
 ---?color=#FAF9D4
 @snap[north span-100]
-### Föreställningar om ljus under 1600- och 1700-talen
+### Tidiga föreställningar om ljus
 @snapend
 
 @snap[east span-100]

@@ -171,3 +171,17 @@ Divergent ljusknippe
 @snap[south span-100]
 @size[0.6em](Från avlägsna ljuskällor är strålarna ungefär parallella)
 @snapend
+
+---?color=#FAF9D4
+Upcomming:
+@ul[](false)
+- @size[0.8em](Ljusets brytning i en gränsyta)
+
+- @size[0.8em](Brytningsindex)
+
+- @size[0.8em](Brytningslagen)
+
+- @size[0.8em](Brytning i prisma)
+
+- @size[0.8em](Totalreflexion)
+@ulend

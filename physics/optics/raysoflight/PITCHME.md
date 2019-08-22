@@ -173,15 +173,142 @@ Divergent ljusknippe
 @snapend
 
 ---?color=#FAF9D4
+@snap[north span-100]
+### Ljusets brytning
+@snapend
+
+@snap[west span-40]
+@size[0.8em](Strålar bryts, ändrar riktning, i gränsytan beroende på att ljusets hastighet skiljer sig åt i ämnena.)
+@snapend
+
+@snap[east span-60]
+![](https://nika-assets.fra1.digitaloceanspaces.com/gitpitchimages/rayoptics/ref_pencil_in_a_bowl_of_water.png)
+@snapend
+
+@snap[south]
+Brytningsindex: $n=\frac{c}{v}$
+@snapend
+
+---?color=#FAF9D4
+@snap[north]
+### Brytningsindex
+@snapend
+
+@snap[midpoint]
+![](https://nika-assets.fra1.digitaloceanspaces.com/gitpitchimages/rayoptics/ref_refraction_index.png)
+@size[0.8em](Se s. 13 i FoT för fler ämnen)
+@snapend
+
+---?color=#FAF9D4
+@snap[north]
+### Brytningslagen
+@snapend
+
+@snap[west span-50]
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Snells_lag.svg/1000px-Snells_lag.svg.png)
+@snapend
+
+@snap[east span-40]
+$n_1 \sin\theta_1=n_2\sin\theta_2$
+<p><p>
+$\theta_1$: infallsvinkel &nbsp; &nbsp; &nbsp;
+<p>
+$\theta_2$: brytningsvinkel
+<p>
+@size[0.6em](Se s. 47 i FoT)
+@snapend
+
+---?color=#FAF9D4
+@snap[north]
+### Exempel på tavlan
+@snapend
+
+@snap[midpoint span-70]
+Beräkna vinklarna $r$ och $b$
+![](https://nika-assets.fra1.digitaloceanspaces.com/gitpitchimages/rayoptics/ref_ex1.png)
+@snapend
+
+@snap[south]
+@size[0.8em](Strålen både bryts och reflekteras i genomskinliga gränsytor)
+@snapend
+
+---?color=#FAF9D4
+@snap[north]
+### Totalreflexion
+@snapend
+
+@snap[midpoint span-70]
+![](https://nika-assets.fra1.digitaloceanspaces.com/gitpitchimages/rayoptics/ref_reflexionTotal_en.svg.png)
+@snapend
+
+@snap[south]
+@size[0.8em](Kan inträffa då ljuset går från ett optiskt tätare till ett tunnare medium)
+
+---?color=#FAF9D4
+@snap[north span-100]
+### Totalreflexion
+@snapend
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Total_internal_reflection_of_Chelonia_mydas.jpg/640px-Total_internal_reflection_of_Chelonia_mydas.jpg)
+
+---?color=#FAF9D4
+@snap[north]
+### Exempel på tavlan
+@size[0.7em](Beräkna den kritiska vinkeln för en stråle från vatten till luft.)
+@snapend
+
+@snap[south span-70]
+![](https://nika-assets.fra1.digitaloceanspaces.com/gitpitchimages/rayoptics/ref_reflexionTotal_en.svg.png)
+@snapend
+
+---?color=#FAF9D4
+@snap[north]
+### Brytning i prisma
+@snapend
+
+@snap[midpoint span-70]
+![](https://nika-assets.fra1.digitaloceanspaces.com/gitpitchimages/rayoptics/ref_prism.png)
+@snapend
+
+---?color=#FAF9D4
+@snap[north]
+### Brytning i prisma
+@snapend
+
+@snap[midpoint span-50]
+![](https://nika-assets.fra1.digitaloceanspaces.com/gitpitchimages/rayoptics/ref_light_dispersion_conceptual_waves.gif)
+@size[0.6em](Olika brytningsindex för olika färger - därför spridning)
+@snapend
+
+---?color=#FAF9D4
+@snap[north]
+### Regnbåge
+@snapend
+
+@snap[midpoint span-80]
+![](https://nika-assets.fra1.digitaloceanspaces.com/gitpitchimages/rayoptics/ref_double_rainbow.jpg)
+@size[0.8em](Ett brytningsfenomen)
+@snapend
+
+---?color=#FAF9D4
+@snap[north span-100]
+### Brytning och reflexion i vattendroppe
+@snapend
+
+@snap[midpoint span-50]
+![](https://nika-assets.fra1.digitaloceanspaces.com/gitpitchimages/rayoptics/ref_drop_as_refractor.png)
+@snapend
+
+---?color=#FAF9D4
+![](https://nika-assets.fra1.digitaloceanspaces.com/gitpitchimages/rayoptics/ref_rainbow_principle.png)
+
+---?color=#FAF9D4
 Upcomming:
 @ul[](false)
-- @size[0.8em](Ljusets brytning i en gränsyta)
+- @size[0.8em](Ljusets brytning i linser)
 
-- @size[0.8em](Brytningsindex)
+- @size[0.8em](Avbildning i linser)
 
-- @size[0.8em](Brytningslagen)
+- @size[0.8em](Gauss linsformel)
 
-- @size[0.8em](Brytning i prisma)
-
-- @size[0.8em](Totalreflexion)
 @ulend

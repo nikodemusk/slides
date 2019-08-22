@@ -186,7 +186,7 @@ Divergent ljusknippe
 @snapend
 
 @snap[south]
-Brytningsindex: $n=\frac{c}{v}$
+@box[bg-yellow rounded box-padding](Brytningsindex: $n=\frac{c}{v}$)
 @snapend
 
 ---?color=#FAF9D4

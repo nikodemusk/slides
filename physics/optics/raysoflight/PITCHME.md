@@ -209,7 +209,7 @@ Brytningsindex: $n=\frac{c}{v}$
 @snapend
 
 @snap[east span-40]
-$n_1 \sin\theta_1=n_2\sin\theta_2$
+@box[bg-yellow rounded box-padding]($n_1 \sin\theta_1=n_2\sin\theta_2$)
 <p><p>
 $\theta_1$: infallsvinkel &nbsp; &nbsp; &nbsp;
 <p>
@@ -245,7 +245,7 @@ Beräkna vinklarna $r$ och $b$
 @size[0.8em](Kan inträffa då ljuset går från ett optiskt tätare till ett tunnare medium)
 
 ---?color=#FAF9D4
-@snap[north span-100]
+@snap[north]
 ### Totalreflexion
 @snapend
 

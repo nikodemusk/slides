@@ -219,21 +219,18 @@ $\theta_2$: brytningsvinkel
 @snapend
 
 ---?color=#FAF9D4
-@snap[north]
+@snap[north span-100]
 ### Exempel på tavlan
 @snapend
 
-@snap[midpoint span-70]
-Beräkna vinklarna $r$ och $b$
+@snap[midpoint span-55]
+@size[0.8em](Beräkna vinklarna $r$ och $b$)
 ![](https://nika-assets.fra1.digitaloceanspaces.com/gitpitchimages/rayoptics/ref_ex1.png)
-@snapend
-
-@snap[south]
-@size[0.8em](Strålen både bryts och reflekteras i genomskinliga gränsytor)
+@size[0.6em](Strålen både bryts och reflekteras i genomskinliga gränsytor)
 @snapend
 
 ---?color=#FAF9D4
-@snap[north]
+@snap[north span-100]
 ### Totalreflexion
 @snapend
 
@@ -241,18 +238,18 @@ Beräkna vinklarna $r$ och $b$
 ![](https://nika-assets.fra1.digitaloceanspaces.com/gitpitchimages/rayoptics/ref_reflexionTotal_en.svg.png)
 @snapend
 
-@snap[south]
+@snap[south span-100]
 @size[0.8em](Kan inträffa då ljuset går från ett optiskt tätare till ett tunnare medium)
 
 ---?color=#FAF9D4
-@snap[north]
+@snap[north span-100]
 ### Totalreflexion
 @snapend
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Total_internal_reflection_of_Chelonia_mydas.jpg/640px-Total_internal_reflection_of_Chelonia_mydas.jpg)
 
 ---?color=#FAF9D4
-@snap[north]
+@snap[north span-100]
 ### Exempel på tavlan
 @size[0.7em](Beräkna den kritiska vinkeln för en stråle från vatten till luft.)
 @snapend
@@ -262,7 +259,7 @@ Beräkna vinklarna $r$ och $b$
 @snapend
 
 ---?color=#FAF9D4
-@snap[north]
+@snap[north span-100]
 ### Brytning i prisma
 @snapend
 
@@ -271,7 +268,7 @@ Beräkna vinklarna $r$ och $b$
 @snapend
 
 ---?color=#FAF9D4
-@snap[north]
+@snap[north span-100]
 ### Brytning i prisma
 @snapend
 
@@ -281,7 +278,7 @@ Beräkna vinklarna $r$ och $b$
 @snapend
 
 ---?color=#FAF9D4
-@snap[north]
+@snap[north span-100]
 ### Regnbåge
 @snapend
 
@@ -303,12 +300,108 @@ Beräkna vinklarna $r$ och $b$
 ![](https://nika-assets.fra1.digitaloceanspaces.com/gitpitchimages/rayoptics/ref_rainbow_principle.png)
 
 ---?color=#FAF9D4
-Upcomming:
-@ul[](false)
-- @size[0.8em](Ljusets brytning i linser)
+@snap[north span-100]
+### Positiva linser
+@snapend
 
-- @size[0.8em](Avbildning i linser)
+<img src="https://nika-assets.fra1.digitaloceanspaces.com/gitpitchimages/rayoptics/lens_positive_lens.png" width=60%>
 
-- @size[0.8em](Gauss linsformel)
+@snap[south-west span-100]
+@size[0.6em](Positiv lins, konvex lins, samlingslins.<br>)
+@size[0.6em](Parallellt infallande strålar bryts mot fokalpunkten.)
+@snapend
 
-@ulend
+---?color=#FAF9D4
+@snap[north span-100]
+### Negativa linser
+@snapend
+
+<img src="https://nika-assets.fra1.digitaloceanspaces.com/gitpitchimages/rayoptics/lens_negative_lens.png" width=60%>
+
+@snap[south-west span-100]
+@size[0.6em](Negativ lins, konkav lins, spridningslins.<br>)
+@size[0.6em](Enbart strålar längs den optiska axeln går genom fokalpunkten.)
+@snapend
+
+---?color=#FAF9D4
+@snap[north span-100]
+### Avbildning i linser
+@snapend
+
+<img src="https://nika-assets.fra1.digitaloceanspaces.com/gitpitchimages/rayoptics/lens_imaging.png" width=60%>
+
+@snap[south-west span-100]
+@size[0.6em](En stråle parallell med den optiska axeln<br>)
+@size[0.6em](En stråle genom linsens optiska mittpunkt<br>)
+@size[0.6em](En stråle genom linsens fokalpunkt<br>)
+@snapend
+
+@snap[south-east span-40]
+@box[bg-yellow rounded box-padding](Linsformeln:<br>$\frac{1}{S_1}+\frac{1}{S_2}=\frac{1}{f}$)
+@snapend
+
+---?color=#FAF9D4
+@snap[north span-100]
+### Avbildningens förstoring
+@snapend
+@size[0.6em](Föremålet med storleken $h_1$ avbildas på en skärm genom den positiva linsen)
+<img src="https://nika-assets.fra1.digitaloceanspaces.com/gitpitchimages/rayoptics/ref_fostoring.png" width=80%>
+@size[0.6em]($\triangle{ABO}\eqsim\triangle{A'B'O}\Rightarrow \frac{h_2}{h_1} = \frac{b}{a}=M$<br>)
+@size[0.6em](där $M$ är förstoringen.)
+
+
+---?color=#FAF9D4
+@snap[north span-100]
+### Exempel på tavlan
+@snapend
+
+Tänk till 9, s. 199.
+
+---?color=#FAF9D4
+@snap[north span-100]
+### Lupp
+@snapend
+
+<img src="https://nika-assets.fra1.digitaloceanspaces.com/gitpitchimages/rayoptics/lens_magnifying_glass.png" width=60%>
+
+@snap[south-west span-100]
+@size[0.6em](Ett föremål innanför brännpunkten ger en rättvänd, förstorad bild, används t ex i läsglasögon.)
+@snapend
+
+---?color=#FAF9D4
+@snap[north span-100]
+### Bild genom negativ lins
+@snapend
+
+<img src="https://nika-assets.fra1.digitaloceanspaces.com/gitpitchimages/rayoptics/lens_demagnifying_glass.png" width=60%>
+
+@snap[south-west span-100]
+@size[0.6em](Genom en negativ lins syns bilden som rättvänd och förminskad, används t ex mot närsynthet.)
+@snapend
+
+---?color=#FAF9D4
+@snap[north span-100]
+### Keplerkikare
+@snapend
+
+<img src="https://nika-assets.fra1.digitaloceanspaces.com/gitpitchimages/rayoptics/ref_keplerkikare.png" width=80%>
+@size[0.6em](<br>Består av två positiva linser. Ger en upp och nedvänd, virtuell bild.)
+
+@snap[south-west span-100]
+@size[0.6em](<br>Ett mikroskop fungerar på samma sätt, men dess linser har kortare brännvidd än kikarens. Förmålet läggs då strax utanför objektivets fokalpunkt.)
+@snapend
+
+---?color=#FAF9D4
+@snap[north span-100]
+### Galileikikare
+@snapend
+
+<img src="https://nika-assets.fra1.digitaloceanspaces.com/gitpitchimages/rayoptics/ref_galileikikare.png" width=80%>
+@size[0.6em](<br>Består av en positiv och en negativ lins. Ger en rättvänd, virtuell bild.)
+
+---?color=#FAF9D4
+@snap[north span-100]
+### Exempel på tavlan
+@snapend
+
+Uppgift 10.17, s. 207.

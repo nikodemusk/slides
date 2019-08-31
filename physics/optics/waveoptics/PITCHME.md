@@ -20,6 +20,7 @@ Ljusexperimenten i videon visar att ljus beter sig som vågor!
 - Våglängd
 - Utbredningshastighet ($c\approx 2.998\cdot 10^8$ m/s)
 - Påverkar varandra (interferens)
+@ulend
 
 ---?color=#FAF9D4
 @snap[north span-100]

@@ -1,7 +1,7 @@
 ---?image=https://nika-assets.fra1.digitaloceanspaces.com/gitpitchimages/rayoptics/Hk-Symphony_of_Lights_3420.jpg
 
 @snap[south-east]
-@size[0.3em]([Image cred: Eddypoon](https://commons.wikimedia.org/wiki/File:Hk-Symphony_of_Lights_3420.jpg))
+@size[0.3em](<a href="https://commons.wikimedia.org/wiki/File:Hk-Symphony_of_Lights_3420.jpg">Image cred: Eddypoon</a>)
 @snapend
 # Stråloptik
 ---?color=#FAF9D4

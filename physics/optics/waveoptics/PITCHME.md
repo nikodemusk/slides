@@ -1,7 +1,7 @@
 ---?image=https://nika-assets.fra1.digitaloceanspaces.com/gitpitchimages/waveoptics/Peacock_butterfly_Aglais_io_2.jpg
 
 @snap[south-east]
-@size[0.3em](Image cred: Charles J. Sharp)
+@size[0.3em](<a href="https://en.wikipedia.org/wiki/Thin-film_interference#In_nature">Image cred: Charles J. Sharp</a>)
 @snapend
 
 # Ljus
@@ -72,7 +72,7 @@ Plana vågor från höger övergår i cirkulära vågor efter den smala passagen
 
 @snap[east span-45 fragment]
 <br><br><br>
-@box[bg-yellow rounded box-padding](@size[0.6em](<b>Villkor för konstruktiv interferens</b><br>$\frac{\delta}{d}=\sin\alpha\Rightarrow d\sin\alpha=n\lambda$))
+@box[bg-yellow rounded box-padding](@size[0.7em](<b>Villkor för konstruktiv interferens</b><br>$\frac{\delta}{d}=\sin\alpha\Rightarrow d\sin\alpha=n\lambda$))
 @snapend
 
 ---?color=#FAF9D4

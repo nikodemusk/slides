@@ -132,4 +132,5 @@ b. Hur många ljuspunkter kan man se på väggen?
 
 @snap[east span-40 fragment]
 @size[0.6em](<p align="left">Exempel: I vakuum har en ljuskälla våglängden 452 nm. Beräkna våglängden i vatten, med brytningsindex 1.33.</p>)
+@sizeend
 @snapend

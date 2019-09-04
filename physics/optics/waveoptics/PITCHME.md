@@ -107,7 +107,7 @@ Exempel 1, s. 216.
 ### Exempel på tavlan
 @snapend
 
-@snap[west]
+@snap[west span-80]
 Ett gitter med 800 ritsor per mm belyses vinkelrätt med laser med våglängden 633 nm. På en vit vägg 4.2 m från gittret syns flera röda ljuspunkter.
 <br><br>
 a. Bestäm avståndet mellan de båda ljuspunkter som svarar mot första max.

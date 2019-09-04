@@ -87,4 +87,49 @@ När ljuset ändrar riktning genom en spalt talar man om att ljuset **böjs**.
 ### Exempel på tavlan
 @snapend
 
-Exempel 1, s. 90.
+Exempel 1, s. 216.
+
+---?color=#FAF9D4
+@snap[north span-100]
+### Gitter
+@snapend
+
+@snap[midpoint span-80]
+![](https://nika-assets.fra1.digitaloceanspaces.com/gitpitchimages/waveoptics/int_gitter.png)
+@snapend
+
+@snap[south-east span-45 fragment]
+@box[bg-yellow rounded box-padding](@size[0.7em](<b>Villkor för konstruktiv interferens</b><br>$\frac{\delta}{d}=\sin\alpha\Rightarrow d\sin\alpha=n\lambda$))
+@snapend
+
+---?color=#FAF9D4
+@snap[north span-100]
+### Exempel på tavlan
+@snapend
+
+@snap[west]
+Ett gitter med 800 ritsor per mm belyses vinkelrätt med laser med våglängden 633 nm. På en vit vägg 4.2 m från gittret syns flera röda ljuspunkter.
+<br><br>
+a. Bestäm avståndet mellan de båda ljuspunkter som svarar mot första max.
+<br><br>
+b. Hur många ljuspunkter kan man se på väggen?
+
+@snapend
+
+
+---?color=#FAF9D4
+@snap[north span-100]
+### Vågor i andra medier
+@snapend
+
+@snap[west span-60]
+@size[0.6em](Oavsett utbredningshastighet har en och samma våg samma frekvens. För ljus i vakuum gäller:)
+<br>
+@size[0.6em]($f=\frac{c}{\lambda}\Rightarrow\lambda=\frac{c}{f}$)<br>
+@size[0.6em](I ett medium med brytningsindex $n$ gäller:)
+@size[0.6em]($\lambda=\frac{v}{f}=\frac{c/n}{f}=\frac{c}{nf}$)<br>
+@snapend
+
+@snap[east span-40 fragment]
+@size[0.6em](<p align="left">Exempel: I vakuum har en ljuskälla våglängden 452 nm. Beräkna våglängden i vatten, med brytningsindex 1.33.</p>)
+@snapend

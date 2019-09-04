@@ -124,7 +124,6 @@ Exempel 1, s. 216.
 
 @snap[west span-60]
 @size[0.6em](Oavsett utbredningshastighet har en och samma våg samma frekvens. För ljus i vakuum gäller:)
-<br>
 @size[0.6em]($f=\frac{c}{\lambda}\Rightarrow\lambda=\frac{c}{f}$)<br>
 @size[0.6em](I ett medium med brytningsindex $n$ gäller:)
 @size[0.6em]($\lambda=\frac{v}{f}=\frac{c/n}{f}=\frac{c}{nf}$)<br>

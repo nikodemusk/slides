@@ -109,9 +109,9 @@ Exempel 1, s. 216.
 
 @snap[west]
 @size[0.8em](Ett gitter med 800 ritsor per mm belyses vinkelrätt med laser med våglängden 633 nm. På en vit vägg 4.2 m från gittret syns flera röda ljuspunkter.)
-<br><br>
+<br>
 @size[0.8em](a. Bestäm avståndet mellan de båda ljuspunkter som svarar mot första max.)
-<br><br>
+<br>
 @size[0.8em](b. Hur många ljuspunkter kan man se på väggen?)
 
 @snapend
